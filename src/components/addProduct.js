@@ -14,7 +14,7 @@ import image8 from '../imgs/CallOfDuty_MW.jpg';
 const PRODUCTS = [
   {
     id: 1,
-    title: 'Product 1',
+    title: 'Juego 1',
     description: 'This is the description of product 1.',
     price: 25.99,
     image: image1,
