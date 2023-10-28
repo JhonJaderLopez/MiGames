@@ -14,7 +14,7 @@ import image8 from '../imgs/CallOfDuty_MW.jpg';
 const PRODUCTS = [
   {
     id: 1,
-    title: 'PARA CARLOS',
+    title: 'LEFT 4 DEAD 3',
     description: 'es un videojuego de terror de disparos en primera persona cooperativo y asimétrico desarrollado por Turtle Rock Studios y publicado por Valve Corporation. ',
     price: 25.99,
     image: image1,
